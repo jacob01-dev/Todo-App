@@ -1,6 +1,6 @@
 ## Todo App
 
-[Screenshot of App](src/assets/screenshot.png)
+![Screenshot of App](src/assets/screenshot.png)
 
 ## General Info
 

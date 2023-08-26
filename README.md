@@ -11,7 +11,7 @@ Project made using React and TailwindCSS
 To run this project, install it locally using npm:
 
 ```
-$ cd TODO-APP
+$ cd todo-app
 $ npm install
 $ npm run dev
 ```
